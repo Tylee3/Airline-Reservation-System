@@ -1,4 +1,4 @@
-#Airline Reservation System
+# Airline Reservation System
 
 ## Problem Statement
 A C-based seat reservation system that allows users to manage airline reservations and automatically maintain seat maps for each flight. The system eliminates manual tracking errors by synchronizing reservations and seat availability using persistent storage through GDBM. Users can add, view, update, delete, and search reservations while ensuring that seat assignments are valid and synchronized in real time.
